@@ -22,8 +22,6 @@ import jakarta.validation.Valid;
 
 import org.springframework.web.bind.annotation.PutMapping;
 
-
-
 @RestController
 @RequestMapping(value = "/products")
 public class ProductController {
